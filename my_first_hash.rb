@@ -1,5 +1,5 @@
 def my_hash
-  desserts = {"cake" => Ice box, "ice cream" => vanilla}
+  desserts = {"cake" => "Ice box", "ice cream" => "vanilla"}
 end
 
 
